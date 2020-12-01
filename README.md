@@ -1,6 +1,6 @@
 # SmallPython
 
-## Files uploaded:
+## Quick overview on the uploaded files:
 
 | File  | Description |
 | :---: | :---------  |
