@@ -3,7 +3,7 @@ from typing import Union
 
 def binarysearch(value: Union[int,str], valist:list) -> Union[int, None]:
     """
-    Binary Search algorithm's implementation. The list passed as an argument must be previously sorted.
+    Binary Search algorithm implementation. The list passed as an argument must be previously sorted.
     """
     floor = 0
     roof = len(valist) - 1
