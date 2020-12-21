@@ -11,3 +11,4 @@
 | recursion | Divide and conquer approach on very basic stuff |
 | quicksort | Quicksort implementation|
 | merge_sort | Approximation to merge sort algorithm |
+| hash_table | hash table implementation with a really bad hash function |
