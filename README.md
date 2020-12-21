@@ -9,3 +9,4 @@
 | binary_search | Binary search implementation |
 | selection_sort | Selection sort implementation |
 | recursion | divide and conquer approach on very basic stuff |
+| quicksort | Quicksort implementation|
