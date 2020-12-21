@@ -8,5 +8,6 @@
 | nesteddic | Searches a dictionary key in multi-nested dictionaries and returns the associated value. It works pretty well to scan a dictionary-parsed json file  |
 | binary_search | Binary search implementation |
 | selection_sort | Selection sort implementation |
-| recursion | divide and conquer approach on very basic stuff |
+| recursion | Divide and conquer approach on very basic stuff |
 | quicksort | Quicksort implementation|
+| merge_sort | Approximation to merge sort algorithm |
