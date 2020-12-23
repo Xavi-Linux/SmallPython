@@ -13,4 +13,4 @@
 | merge_sort | Approximation to merge sort algorithm |
 | hash_table | Hash table implementation with a really bad hash function |
 | breadth_search | Breadth search implementation. Graphs are described as dictionaries and the shortest path is returned as a string. A self-made Queue implementation is also provided |
-
+| dijkstra | dijkstra's algorithm implementation |
