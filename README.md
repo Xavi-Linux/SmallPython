@@ -15,4 +15,4 @@
 | breadth_search | Breadth search implementation. Graphs are described as dictionaries and the shortest path is returned as a string. A self-made Queue implementation is also provided |
 | dijkstra | dijkstra's algorithm implementation |
 | dynamic  | Some dynamic programming: longest subsequence, longest substring and levenshtein distance |
-| Challenge | Jupyter Notebook. Solving some problems tables in DS class|
+| insertion_sort | Insertion sort implementation|
